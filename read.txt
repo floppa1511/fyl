@@ -1,6 +1,7 @@
 Buy the source for 1700 robux 🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑🤑💵💵💵💵💵💵💵💵
 Discord: _x27_
 Wanna get whitelisted? dm me on discord: _x27_, costs 200 robux
+Discontinued i hate this
 loadstring(game:HttpGet("https://raw.githubusercontent.com/floppa1511/fyl/main/whitelist_information.lua"))()
 ---------------------------------------------------------------------------------------------------------------------
 loadstring(game:HttpGet("https://raw.githubusercontent.com/floppa1511/fyl/main/flex_ur_luck.lua"))()
